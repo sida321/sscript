@@ -9,7 +9,7 @@ runcmd:
   - mkdir /root/t
   - mkdir /root/COMPLETE
   - mkdir /root/CONVERTED
-  - wget https://raw.githubusercontent.com/sida321/sscript/blob/master/flatten.sh -O /root/flatten.sh
+  - wget https://raw.githubusercontent.com/sida321/sscript/master/flatten.sh -O /root/flatten.sh
   - chmod +x /root/flatten.sh
   - wget https://raw.githubusercontent.com/sida321/sscript/master/hand.sh -O /root/hand.sh
   - chmod +x /root/hand.sh
